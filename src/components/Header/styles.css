@@ -1,0 +1,29 @@
+#header {
+  height: 64px;
+  background-color: #4A90E2;
+  padding-left: 42px;
+  flex-direction: row;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#meu-perfil {
+  margin-right: 42px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+}
+
+#meu-perfil span {
+  font-size: 15px;
+  margin-right: 10px;
+  color: #FFF;
+  font-weight: bold;
+}
+
+#meu-perfil ion-icon {
+  font-size: 24px;
+  color: #FFF;
+}

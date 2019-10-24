@@ -1,0 +1,22 @@
+.comment {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  margin-top: 20px;
+}
+
+.comment-image img {
+  width: 28px;
+  height: 28px;
+  border-radius: 14px;
+}
+
+.comment-post-user {
+  margin-left: 10px;
+  padding: 10px 15px;
+  border-radius: 20px;
+  background-color: #EEEEEE;
+  font-size: 13px;
+  line-height: 1.6;
+  color: #3E3E3E;
+}
